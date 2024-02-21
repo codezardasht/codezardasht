@@ -69,16 +69,7 @@ I am a full stack developer, focused on developing creative full stack web and a
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📊 Github stats
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <img alt="Muhammed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HamaSarbast-1997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Muhammed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamaSarbast-1997&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 
 
 ## 🙋‍♂️ Let's Connect
