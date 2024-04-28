@@ -11,13 +11,6 @@ Hi, I'm Zardasht Rwandzi!
 I am a full stack developer, focused on developing creative full stack web and apps. I'm Passionate about learning new things and building excellent software that improves the lives of people with the help of modern technology.
 </samp>
 
-## 🔥 Streak stats
-
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AhmadDuhoki's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HamaSarbast-1997&theme=monokai-metallian&hide_border=true"/>
-  <p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
-
 
 ## 🛠️ My favorite tools
 
